@@ -1,12 +1,5 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
-
- 
-
 ## AIM:
- 
-
- 
-
 To write a C program to implement the Playfair Substitution technique.
 
 ## DESCRIPTION:
@@ -21,9 +14,7 @@ To encrypt a message, one would break the message into digrams (groups of 2 lett
 ## EXAMPLE:
 ![image](https://github.com/Hemamanigandan/EX-NO-2-/assets/149653568/e6858d4f-b122-42ba-acdb-db18ec2e9675)
 
- 
-
-## ALGORITHM:
+ ## ALGORITHM:
 
 STEP-1: Read the plain text from the user.
 STEP-2: Read the keyword from the user.
@@ -194,5 +185,7 @@ return 0;
 ~~~
 
 
-Output:
+## Output:
 <img width="680" height="521" alt="Screenshot 2026-10-27 210909" src="https://github.com/user-attachments/assets/05e6e6da-ed12-4f7e-ab9d-d6264ae554c3" />
+## Result
+Thus the implementation of Playfair Substitution technique had been executed successfully.
